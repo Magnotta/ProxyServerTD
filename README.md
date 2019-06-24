@@ -1,4 +1,4 @@
-Um servidor proxy bastante simplificado.
+Um servidor proxy bastante simplificado. Implementação feita em python 3.7.
 
 Os arquivos Main.py, Whitelist.txt e Blacklist.txt precisam estar na mesma pasta.
 
