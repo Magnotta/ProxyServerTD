@@ -9,3 +9,5 @@ A configuração básica do servidor deve ser feita dentro do código, alterando
 O programa roda apenas digitando-se python3 Main.py numa janela do terminal. 
 
 As únicas bibliotecas utilizadas foram time, threading, signal e socket.
+
+Para que o proxy funcione, o browser precisa ser configurado para usá-lo. No caso do mozilla firefox, em preferências, nas configurações de conexão, em serviço de proxy HTTP -> digitar 127.0.0.1. Então inicializar o programa Main.py e navegar naturalmente.
